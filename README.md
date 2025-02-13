@@ -1,0 +1,1 @@
+A basic chatbot is a program that interacts with users through text-based conversations. In Python, it can be implemented using conditional statements, NLP libraries (like NLTK or spaCy), or AI models. It processes user input, matches predefined responses, and provides relevant replies. It can be rule-based or AI-powered for more natural interactions.
